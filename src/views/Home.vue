@@ -2,6 +2,12 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h2>dev上面的内容</h2>
+    <h2>dev上面的内容</h2>
+    <h2>dev上面的内容</h2>
+    <h2>dev上面的内容</h2>
+    <h2>dev上面的内容</h2>
+    <head>2323232git</head>
   </div>
 </template>
 
