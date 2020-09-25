@@ -7,7 +7,7 @@
     <h2>dev上面的内容</h2>
     <h2>dev上面的内容</h2>
     <h2>dev上面的内容</h2>
-    <head>2323232git</head>
+    <h2>这是home组件</h2>
   </div>
 </template>
 
