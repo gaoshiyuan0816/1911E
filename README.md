@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # demo1
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# 1911E
+>>>>>>> 6267f7e0fc373b437a222bae6cfebf083e7f6372
